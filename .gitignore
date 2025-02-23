@@ -30,3 +30,73 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio cache and build output
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ncb
+*.aps
+*.cache
+*.obj
+*.ilk
+*.ipch
+*.pdb
+*.idb
+*.tlog
+*.log
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+bin/
+obj/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+CMakeLists.txt.user
+compile_commands.json
+
+# Visual Studio Code
+.vscode/
+
+# Editor specific
+*.code-workspace
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Executables
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+
+# Other
+*.o
+*.a
+*.res
+*.rsp
+*.dat
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Package managers
+*.nuget/
+packages/
